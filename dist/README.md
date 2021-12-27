@@ -1,7 +1,7 @@
-# dave
+# readme
   
   
-  ![Github License](https://img.shields.io/badge/license-gpl-license-green.svg)
+  ![Github License](https://img.shields.io/badge/license-lgpl-green.svg)
   
 
   ## Description
@@ -26,7 +26,7 @@
 
   ## Credits
 
-  * [dave](https://github.com/dave)
+  * [dhalladay](https://github.com/dhalladay)
 
   ## Testing
 
@@ -37,7 +37,7 @@
   Copyright (c) undefined.
 
   
-  Licensed under the [gpl-license](
-  https://opensource.org/licenses/gpl-license
+  Licensed under the [lgpl-license](
+  https://opensource.org/licenses/lgpl-license
   ) license.
   

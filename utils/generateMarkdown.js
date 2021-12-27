@@ -3,10 +3,19 @@
 function renderLicenseBadge(license) {
   if (license === 'None') {
     return ''; 
-  }
+  } else if (license === 'gpl-license') {
+    return `
+  ![Github License](https://img.shields.io/badge/license-gpl-green.svg)
+  `;
+  } else if (license === 'lgpl-license') {
+    return `
+  ![Github License](https://img.shields.io/badge/license-lgpl-green.svg)
+  `;
+  } else {
   return `
   ![Github License](https://img.shields.io/badge/license-${license}-green.svg)
   `;
+  }
 };
 
 // TODO: Create a function that returns the license link
