@@ -86,7 +86,7 @@ const questions = [
   {
     type: 'input',
     name: 'installation',
-    message: 'What steps are required for installation of your project, if any?'
+    message: 'What steps are required for installation of your project?'
   },
   {
     type: 'input',

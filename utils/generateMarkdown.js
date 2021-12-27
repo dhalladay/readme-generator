@@ -3,17 +3,10 @@
 function renderLicenseBadge(license) {
   if (license === 'None') {
     return ''; 
-  } else if (license === 'gpl-license') {
-    return `
-  ![Github License](https://img.shields.io/badge/license-gpl-green.svg)
-  `;
-  } else if (license === 'lgpl-license') {
-    return `
-  ![Github License](https://img.shields.io/badge/license-lgpl-green.svg)
-  `;
   } else {
-  return `
-  ![Github License](https://img.shields.io/badge/license-${license}-green.svg)
+    var licenseWithSpaces = license.replaceAll("-", "%20");
+    return `
+  ![Github License](https://img.shields.io/badge/license-${licenseWithSpaces}-green.svg)
   `;
   }
 };
