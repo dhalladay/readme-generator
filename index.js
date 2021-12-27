@@ -137,6 +137,9 @@ function init() {
     .then(data => {
       return writeToFile('./dist/README.md', data)
     })
+    .then(writeToFileResponse => {
+      console.log(writeToFileResponse)
+    })
     .catch(err => {
       console.log(err)
     })

@@ -1,12 +1,12 @@
-# read
+# d
   
   
-  ![Github License](https://img.shields.io/badge/license-MIT-green.svg)
+  ![Github License](https://img.shields.io/badge/license-Apache-2.0-green.svg)
   
 
   ## Description
 
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  d
 
   ## Table of Contents
 
@@ -19,33 +19,34 @@
 
   ## Installation
 
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  d
 
   ## Usage
 
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  d
 
   ## Credits
 
-  * [dhalladay](https://github.com/dhalladay)
+  * created by: d
+  * collaborators: d
 
   ## Testing
 
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  d
 
   ## Questions
 
   Reach out with any questions:
 
-  * [github](https://github.com/dhalladay)!
-  * [email](mailto:dave.halladay@outlook.com) 
+  * [github](https://github.com/d)
+  * [email](mailto:dd) 
 
   ## License
 
-  Copyright (c) undefined.
+  Copyright (c) d.
 
   
-  Licensed under the [MIT](
-  https://opensource.org/licenses/MIT
+  Licensed under the [Apache-2.0](
+  https://opensource.org/licenses/Apache-2.0
   ) license.
   
