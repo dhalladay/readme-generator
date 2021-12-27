@@ -56,6 +56,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Credits](#credits)
   * [Testing](#testing)
+  * [Questions](#questions)
   * [License](#license)
 
   ## Installation
@@ -68,11 +69,19 @@ function generateMarkdown(data) {
 
   ## Credits
 
-  * [${data.github}](https://github.com/${data.github})
+  * created by: ${data.name}
+  * collaborators: ${data.collaborators}
 
   ## Testing
 
   ${data.tests}
+
+  ## Questions
+
+  Reach out with any questions:
+
+  * [github](https://github.com/${data.github})
+  * [email](mailto:${data.email}) 
 
   ## License
 
