@@ -1,12 +1,10 @@
-# readme-generator
-  
+# First Draft of Work Portolio
   
   ![Github License](https://img.shields.io/badge/license-MIT-green.svg)
   
-
   ## Description
 
-  A good readme makes it easy for others to navigate your projects and repositories, allowing them to more easily collaborate and contribute. This readme-generator provides a template and guidance to produce a quality readme.md for all future repositories. Through the use of node and template literals anyone can create a readme using the following code.
+  Created a Web Portfolio for current and future projects. In order to become more competitive as a full stack developer, it is important to have a portfolio where your best work and skills can be put on display for future employers to review. This project was to create a page where I can showcase my coding abilities and future projects as I continue to learn and improve.
 
   ## Table of Contents
 
@@ -19,20 +17,20 @@
 
   ## Installation
 
-  node.js must be installed, once that is complete, go to your terminal and type 'npm init' pess enter, and then 'npm install inquirer' and press enter again
+  No installation. Any standard web browser will allow you to access this portfolio.
 
   ## Usage
 
-  Once installation is complete and the code has been cloned, go again to the terminal and type 'node index' and press enter. Then just answer the questions as they come. The code will take care of the rest. 
+  Visit: [https://dhalladay.github.io/first-draft-portfolio/](https://dhalladay.github.io/first-draft-portfolio/)
 
   ## Credits
 
   * created by: Dave Halladay
-  * collaborators: Xandromus
+  * collaborators: N/A
 
   ## Testing
 
-  None
+  No testing required.
 
   ## Questions
 
@@ -43,7 +41,7 @@
 
   ## License
 
-  Copyright (c) Dave Halladay.
+  Copyright &copy; Dave Halladay.
 
   
   Licensed under the [MIT](

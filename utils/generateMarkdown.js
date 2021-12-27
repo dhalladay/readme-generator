@@ -78,7 +78,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  Copyright (c) ${data.name}.
+  Copyright &copy; ${data.name}.
 
   ${renderLicenseSection(data.license)}
 `;
